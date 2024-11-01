@@ -1,4 +1,6 @@
 # TrabIA
 Trabalho De Inteligência Artificial
-https://colab.research.google.com/drive/1B-nFI4DfhWzidnmD7LLyHi3_MD1Ulgri?usp=sharing
+# Colab
+https://colab.research.google.com/drive/1SJHZp3FnF6EpllWfYwEk1GWpRzSwmcg2?usp=sharing
+# Pasta com os arquivos
 https://drive.google.com/drive/folders/1M5tr2K_MMBQRiZpv7bF14ossTPslhwIg?usp=drive_link
